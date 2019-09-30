@@ -1,0 +1,57 @@
+﻿已經開始建置於 2016/12/2 下午 07:36:16。
+     1>節點 2 (Build 目標) 上的專案 "G:\utaipei\utaipei_105\IImageProcessing\hw1\hw1\hw1.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib MyForm.cpp
+         MyForm.cpp
+     1>g:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1068): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>g:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1097): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>g:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1126): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>g:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1152): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>g:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1177): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>g:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1264): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>g:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1265): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>g:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1266): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>g:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1301): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>g:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1205): warning C4101: 'red': 未參考的區域變數
+     1>g:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1217): warning C4101: 'blue': 未參考的區域變數
+     1>g:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1199): warning C4101: 'gray': 未參考的區域變數
+     1>g:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1211): warning C4101: 'green': 未參考的區域變數
+     1>g:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1437): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+     1>g:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1506): warning C4101: 'b': 未參考的區域變數
+     1>g:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1506): warning C4101: 'g': 未參考的區域變數
+     1>g:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1506): warning C4101: 'r': 未參考的區域變數
+     1>g:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1780): warning C4101: 'resultGray': 未參考的區域變數
+     1>g:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1790): warning C4101: 'mask3G': 未參考的區域變數
+     1>g:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1796): warning C4101: 'mask7G': 未參考的區域變數
+     1>g:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1794): warning C4101: 'mask5B': 未參考的區域變數
+     1>g:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1780): warning C4101: 'resultR': 未參考的區域變數
+     1>g:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1800): warning C4101: 'mask9B': 未參考的區域變數
+     1>g:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1799): warning C4101: 'mask9G': 未參考的區域變數
+     1>g:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1780): warning C4101: 'resultB': 未參考的區域變數
+     1>g:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1795): warning C4101: 'mask7R': 未參考的區域變數
+     1>g:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1805): warning C4101: 'b': 未參考的區域變數
+     1>g:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1797): warning C4101: 'mask7B': 未參考的區域變數
+     1>g:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1788): warning C4101: 'mask_med3': 未參考的區域變數
+     1>g:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1780): warning C4101: 'count': 未參考的區域變數
+     1>g:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1780): warning C4101: 'resultG': 未參考的區域變數
+     1>g:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1793): warning C4101: 'mask5G': 未參考的區域變數
+     1>g:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1798): warning C4101: 'mask9R': 未參考的區域變數
+     1>g:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1805): warning C4101: 'g': 未參考的區域變數
+     1>g:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1792): warning C4101: 'mask5R': 未參考的區域變數
+     1>g:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1791): warning C4101: 'mask3B': 未參考的區域變數
+     1>g:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1805): warning C4101: 'r': 未參考的區域變數
+     1>g:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1789): warning C4101: 'mask3R': 未參考的區域變數
+     1>g:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\myform.h(1702): warning C4700: 使用了未初始化的區域變數 'c'
+     1>C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(2718,5): error MSB4018: "GenerateResource" 工作發生未預期的失敗。
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(2718,5): error MSB4018: System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(2718,5): error MSB4018:    於 Microsoft.Build.Tasks.ResGenDependencies.GetResXFileInfo(String resxFile)
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(2718,5): error MSB4018:    於 Microsoft.Build.Tasks.GenerateResource.ShouldRebuildResgenOutputFile(String sourceFilePath, String outputFilePath)
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(2718,5): error MSB4018:    於 Microsoft.Build.Tasks.GenerateResource.GetResourcesToProcess(List`1& inputsToProcess, List`1& outputsToProcess, List`1& cachedOutputFiles)
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(2718,5): error MSB4018:    於 Microsoft.Build.Tasks.GenerateResource.Execute()
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(2718,5): error MSB4018:    於 Microsoft.Build.BackEnd.TaskExecutionHost.Microsoft.Build.BackEnd.ITaskExecutionHost.Execute()
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(2718,5): error MSB4018:    於 Microsoft.Build.BackEnd.TaskBuilder.<ExecuteInstantiatedTask>d__26.MoveNext()
+     1>專案 "G:\utaipei\utaipei_105\IImageProcessing\hw1\hw1\hw1.vcxproj" (Build 目標) 建置完成 -- 失敗。
+
+建置失敗。
+
+經過時間 00:00:01.99

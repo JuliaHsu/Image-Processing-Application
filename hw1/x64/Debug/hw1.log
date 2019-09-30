@@ -1,0 +1,1 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(1175,5): error MSB3644: 找不到 .NETFramework,Version=v4.5.2 的參考組件。若要解決此問題，請安裝此架構版本的開發人員套件 (SDK/目標套件) 或重定應用程式。您可以在 https://aka.ms/msbuild/developerpacks 下載 .NET Framework 開發人員套件

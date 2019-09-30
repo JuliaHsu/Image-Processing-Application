@@ -1,0 +1,31 @@
+﻿  MyForm.cpp
+d:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(985): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1014): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1043): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1069): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1094): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1179): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1180): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1181): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1216): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1120): warning C4101: 'red': unreferenced local variable
+d:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1132): warning C4101: 'blue': unreferenced local variable
+d:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1114): warning C4101: 'gray': unreferenced local variable
+d:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1126): warning C4101: 'green': unreferenced local variable
+d:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1352): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1397): warning C4101: 'b': unreferenced local variable
+d:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1397): warning C4101: 'g': unreferenced local variable
+d:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1397): warning C4101: 'r': unreferenced local variable
+d:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1670): warning C4101: 'resultR': unreferenced local variable
+d:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1670): warning C4101: 'resultB': unreferenced local variable
+d:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1697): warning C4101: 'mask5Gray': unreferenced local variable
+d:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1670): warning C4101: 'resultG': unreferenced local variable
+d:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1680): warning C4101: 'mask_med5': unreferenced local variable
+d:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1698): warning C4101: 'mask7Gray': unreferenced local variable
+d:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1682): warning C4101: 'mask_med9': unreferenced local variable
+d:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1699): warning C4101: 'mask9Gray': unreferenced local variable
+d:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\MyForm.h(1681): warning C4101: 'mask_med7': unreferenced local variable
+d:\utaipei\utaipei_105\iimageprocessing\hw1\hw1\myform.h(1592): warning C4700: uninitialized local variable 'c' used
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  hw1.vcxproj -> D:\utaipei\utaipei_105\IImageProcessing\hw1\Release\hw1.exe
+  hw1.vcxproj -> D:\utaipei\utaipei_105\IImageProcessing\hw1\Release\hw1.pdb (Full PDB)

@@ -1,0 +1,43 @@
+﻿  MyForm.cpp
+f:\utaipei\utaipei_105\iimageprocessing\hw1_final\hw1\MyForm.h(1146): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+f:\utaipei\utaipei_105\iimageprocessing\hw1_final\hw1\MyForm.h(1175): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+f:\utaipei\utaipei_105\iimageprocessing\hw1_final\hw1\MyForm.h(1204): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+f:\utaipei\utaipei_105\iimageprocessing\hw1_final\hw1\MyForm.h(1230): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+f:\utaipei\utaipei_105\iimageprocessing\hw1_final\hw1\MyForm.h(1255): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+f:\utaipei\utaipei_105\iimageprocessing\hw1_final\hw1\MyForm.h(1343): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+f:\utaipei\utaipei_105\iimageprocessing\hw1_final\hw1\MyForm.h(1344): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+f:\utaipei\utaipei_105\iimageprocessing\hw1_final\hw1\MyForm.h(1345): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+f:\utaipei\utaipei_105\iimageprocessing\hw1_final\hw1\MyForm.h(1380): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+f:\utaipei\utaipei_105\iimageprocessing\hw1_final\hw1\MyForm.h(1284): warning C4101: 'red': 未參考的區域變數
+f:\utaipei\utaipei_105\iimageprocessing\hw1_final\hw1\MyForm.h(1296): warning C4101: 'blue': 未參考的區域變數
+f:\utaipei\utaipei_105\iimageprocessing\hw1_final\hw1\MyForm.h(1278): warning C4101: 'gray': 未參考的區域變數
+f:\utaipei\utaipei_105\iimageprocessing\hw1_final\hw1\MyForm.h(1290): warning C4101: 'green': 未參考的區域變數
+f:\utaipei\utaipei_105\iimageprocessing\hw1_final\hw1\MyForm.h(1516): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+f:\utaipei\utaipei_105\iimageprocessing\hw1_final\hw1\MyForm.h(1585): warning C4101: 'b': 未參考的區域變數
+f:\utaipei\utaipei_105\iimageprocessing\hw1_final\hw1\MyForm.h(1585): warning C4101: 'g': 未參考的區域變數
+f:\utaipei\utaipei_105\iimageprocessing\hw1_final\hw1\MyForm.h(1585): warning C4101: 'r': 未參考的區域變數
+f:\utaipei\utaipei_105\iimageprocessing\hw1_final\hw1\MyForm.h(1859): warning C4101: 'resultGray': 未參考的區域變數
+f:\utaipei\utaipei_105\iimageprocessing\hw1_final\hw1\MyForm.h(1869): warning C4101: 'mask3G': 未參考的區域變數
+f:\utaipei\utaipei_105\iimageprocessing\hw1_final\hw1\MyForm.h(1875): warning C4101: 'mask7G': 未參考的區域變數
+f:\utaipei\utaipei_105\iimageprocessing\hw1_final\hw1\MyForm.h(1873): warning C4101: 'mask5B': 未參考的區域變數
+f:\utaipei\utaipei_105\iimageprocessing\hw1_final\hw1\MyForm.h(1859): warning C4101: 'resultR': 未參考的區域變數
+f:\utaipei\utaipei_105\iimageprocessing\hw1_final\hw1\MyForm.h(1879): warning C4101: 'mask9B': 未參考的區域變數
+f:\utaipei\utaipei_105\iimageprocessing\hw1_final\hw1\MyForm.h(1878): warning C4101: 'mask9G': 未參考的區域變數
+f:\utaipei\utaipei_105\iimageprocessing\hw1_final\hw1\MyForm.h(1859): warning C4101: 'resultB': 未參考的區域變數
+f:\utaipei\utaipei_105\iimageprocessing\hw1_final\hw1\MyForm.h(1874): warning C4101: 'mask7R': 未參考的區域變數
+f:\utaipei\utaipei_105\iimageprocessing\hw1_final\hw1\MyForm.h(1884): warning C4101: 'b': 未參考的區域變數
+f:\utaipei\utaipei_105\iimageprocessing\hw1_final\hw1\MyForm.h(1876): warning C4101: 'mask7B': 未參考的區域變數
+f:\utaipei\utaipei_105\iimageprocessing\hw1_final\hw1\MyForm.h(1867): warning C4101: 'mask_med3': 未參考的區域變數
+f:\utaipei\utaipei_105\iimageprocessing\hw1_final\hw1\MyForm.h(1859): warning C4101: 'count': 未參考的區域變數
+f:\utaipei\utaipei_105\iimageprocessing\hw1_final\hw1\MyForm.h(1859): warning C4101: 'resultG': 未參考的區域變數
+f:\utaipei\utaipei_105\iimageprocessing\hw1_final\hw1\MyForm.h(1872): warning C4101: 'mask5G': 未參考的區域變數
+f:\utaipei\utaipei_105\iimageprocessing\hw1_final\hw1\MyForm.h(1877): warning C4101: 'mask9R': 未參考的區域變數
+f:\utaipei\utaipei_105\iimageprocessing\hw1_final\hw1\MyForm.h(1884): warning C4101: 'g': 未參考的區域變數
+f:\utaipei\utaipei_105\iimageprocessing\hw1_final\hw1\MyForm.h(1871): warning C4101: 'mask5R': 未參考的區域變數
+f:\utaipei\utaipei_105\iimageprocessing\hw1_final\hw1\MyForm.h(1870): warning C4101: 'mask3B': 未參考的區域變數
+f:\utaipei\utaipei_105\iimageprocessing\hw1_final\hw1\MyForm.h(1884): warning C4101: 'r': 未參考的區域變數
+f:\utaipei\utaipei_105\iimageprocessing\hw1_final\hw1\MyForm.h(1868): warning C4101: 'mask3R': 未參考的區域變數
+f:\utaipei\utaipei_105\iimageprocessing\hw1_final\hw1\myform.h(1781): warning C4700: 使用了未初始化的區域變數 'c'
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  hw1.vcxproj -> F:\utaipei\utaipei_105\IImageProcessing\hw1_final\x64\Release\hw1.exe
+  hw1.vcxproj -> F:\utaipei\utaipei_105\IImageProcessing\hw1_final\x64\Release\hw1.pdb (Full PDB)
