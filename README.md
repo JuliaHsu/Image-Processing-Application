@@ -2,25 +2,15 @@
 Jan. 2017 – June. 2017
 
 
-![Image of Inverse]
+![alt Inverse](https://github.com/JuliaHsu/Image-Processing-Application/blob/master/Demo/Inverse.png)
 
-(https://github.com/JuliaHsu/Image-Processing-Application/blob/master/Demo/Inverse.png)
+![alt Gaussian Filter](https://github.com/JuliaHsu/Image-Processing-Application/blob/master/Demo/Guassian%20Filter.png)
 
-![Image of Gaussian Filter]
+![alt Histogram Equalization](https://github.com/JuliaHsu/Image-Processing-Application/blob/master/Demo/Histogram%20Equalization.png)
 
-(https://github.com/JuliaHsu/Image-Processing-Application/blob/master/Demo/Guassian%20Filter.png)
+![alt Obtsu](https://github.com/JuliaHsu/Image-Processing-Application/blob/master/Demo/otsu.png)
 
-![Image of Histogram Equalization]
-
-(https://github.com/JuliaHsu/Image-Processing-Application/blob/master/Demo/Histogram%20Equalization.png)
-
-![Image of Obtsu]
-
-(https://github.com/JuliaHsu/Image-Processing-Application/blob/master/Demo/otsu.png)
-
-![Image of Sobel]
-
-(https://github.com/JuliaHsu/Image-Processing-Application/blob/master/Demo/sobel.png)
+![alt Sobel](https://github.com/JuliaHsu/Image-Processing-Application/blob/master/Demo/sobel.png)
 
 
 
